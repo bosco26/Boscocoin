@@ -3,7 +3,7 @@ Boscocoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/boscocoin-project/boscocoin.svg?branch=master)](https://travis-ci.org/boscocoin-project/boscocoin)
 
-https://boscocoin.org
+
 
 What is Boscocoin?
 ----------------
